@@ -1,6 +1,6 @@
-Copyright (C) 2017-2018 {company name or your name} <{email}>
+Copyright (C) 2017-2018 SuperFineCrime Alia-June@ars.games
 
-This file is part of the {project name} project.
+This file is part of the Loom project.
 
-The {project name} project can not be copied and/or distributed without the express
-permission of {company name or your name} <{email}>.
+The Loom project can not be copied and/or distributed without the express
+permission of SuperFineCrime Alia-June@ars.games.
